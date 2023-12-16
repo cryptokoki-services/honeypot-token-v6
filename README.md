@@ -32,4 +32,14 @@ Remastered honeypot feature works even more reliably and allows you to protect y
 
 Token management is simple and universal for any blockchain. An excellent choice for both beginners and experienced users. All these features are included in the standard token version, available for immediate purchase.
 
-👉 Learn how to create your own crypto token and start to earn now - [Get Honeypot Token V6](https://cryptokoki.com/honeypot-token-v6.html)
+## 🎥 YouTube Video
+
+[![create honeypot token V6 video](https://github.com/cryptokoki-services/honeypot-token-v6/assets/141502585/1b110db8-5cae-4521-a797-7e5e7db473e2)](https://www.youtube.com/watch?v=mP3xtFOB1f8)
+
+## How to Contact Us:
+
+🌐 Website: [cryptokoki.com](https://cryptokoki.com/honeypot-token-v6.html)<br>
+🎥 YouTube Channel: [@cryptoKoki](www.youtube.com/@cryptoKoki)<br>
+📯 Telegram Channel: [@koki_services](https://t.me/koki_services)<br>
+📥 Telegram PM: [@crypt0koki](https://t.me/crypt0koki)<br>
+📭 E-mail: cryptokoki@proton.me<br>
