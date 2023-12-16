@@ -36,7 +36,11 @@ Token management is simple and universal for any blockchain. An excellent choice
 
 [![create honeypot token V6 video](https://github.com/cryptokoki-services/honeypot-token-v6/assets/141502585/1b110db8-5cae-4521-a797-7e5e7db473e2)](https://www.youtube.com/watch?v=mP3xtFOB1f8)
 
+Watch our YouTube video about Honeypot Token V6 by clicking it's thumbnail above 👆
+
 ## How to Contact Us:
+
+Contact us in any way convenient for you from the listed below
 
 🌐 Website: [cryptokoki.com](https://cryptokoki.com/honeypot-token-v6.html)<br>
 🎥 YouTube Channel: [@cryptoKoki](www.youtube.com/@cryptoKoki)<br>
